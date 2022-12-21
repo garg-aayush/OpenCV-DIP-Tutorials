@@ -6,16 +6,16 @@ A collection of OpenCV tutorials for digital image processing
 
 |**Tutorial** | **Description** | **Colab** |
 | :-- | :-- | :--: |
-| 1) Image reading and writing | Reading, display and writing operations  | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/essential/01_reading_and_writing.ipynb) |
-| 2) Image resizing | Upscaling, interpolation and downsampling the images | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/essential/02_image_resizing.ipynb) |
-| 3) Image histogram | Histogram calculation, equalization and matching | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/essential/03_image_histogram.ipynb) |
-| 4) Image thresholding | Simple and adaptive image thresholding | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/essential/04_image_thresholding.ipynb) |
-| 5) Image filtering | Box, average, Gaussian, median, low/high-boost filtering | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/essential/05_image_filtering.ipynb) |
-| 6) Edge detection | Different edge detection methods (Sobel, Canny, LoG, Prewitt's etc) | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/essential/06_edge_detection.ipynb) |
-| 7) Morphological operations | dilation, erosion operations and their derivatives | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/essential/07_morphological_operations.ipynb) |
-| 8) Image blending | Simple and weighted image blendings | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/essential/08_image_blending.ipynb) |
-| 9) Image color spaces | Prominent color spaces and changing of color spaces | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/essential/09_color_spaces.ipynb) |
-| 10) Image transformations | Translation, rotation  and other transformations | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/essential/10_image_transformations.ipynb) |
+| 1) Image reading and writing | Reading, display and writing operations  | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/01_reading_and_writing.ipynb) |
+| 2) Image resizing | Upscaling, interpolation and downsampling the images | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/02_image_resizing.ipynb) |
+| 3) Image histogram | Histogram calculation, equalization and matching | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/03_image_histogram.ipynb) |
+| 4) Image thresholding | Simple and adaptive image thresholding | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/04_image_thresholding.ipynb) |
+| 5) Image filtering | Box, average, Gaussian, median, low/high-boost filtering | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/05_image_filtering.ipynb) |
+| 6) Edge detection | Different edge detection methods (Sobel, Canny, LoG, Prewitt's etc) | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/06_edge_detection.ipynb) |
+| 7) Morphological operations | dilation, erosion operations and their derivatives | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/07_morphological_operations.ipynb) |
+| 8) Image blending | Simple and weighted image blendings | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/08_image_blending.ipynb) |
+| 9) Image color spaces | Prominent color spaces and changing of color spaces | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/09_color_spaces.ipynb) |
+| 10) Image transformations | Translation, rotation  and other transformations | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/10_image_transformations.ipynb) |
 
 ### Advanced DIP concepts and tutorials
 
