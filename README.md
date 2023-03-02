@@ -7,7 +7,7 @@ A collection of OpenCV tutorials for digital image processing
 |**Tutorial** | **Description** | **Colab** |
 | :-- | :-- | :--: |
 | 1) Image reading and writing | Reading, display and writing operations  | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garg-aayush/OpenCV-DIP-Tutorials/blob/main/colab-notebooks/01_reading_writing.ipynb) |
-| 2) Image resizing | Upscaling, interpolation and downsampling the images | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/02_image_resizing.ipynb) |
+| 2) Image resizing | Upscaling, interpolation and downsampling the images | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garg-aayush/OpenCV-DIP-Tutorials/blob/main/colab-notebooks/02_image_resizing.ipynb) |
 | 3) Image histogram | Histogram calculation, equalization and matching | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/03_image_histogram.ipynb) |
 | 4) Image thresholding | Simple and adaptive image thresholding | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/04_image_thresholding.ipynb) |
 | 5) Image filtering | Box, average, Gaussian, median, low/high-boost filtering | [![open-in-colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-notebooks/05_image_filtering.ipynb) |
